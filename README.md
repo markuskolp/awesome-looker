@@ -23,7 +23,9 @@
 
 - https://looker.com/product/embedded-analytics
 - https://looker.com/blog/embedded-analytics-questions-answered
-- Whitelabel: https://docs.looker.com/admin-options/settings/whitelabel
+- Whitelabel: 
+  - https://docs.looker.com/admin-options/settings/whitelabel
+  - https://www.hashpath.com/2019/09/looker-wld/
 - Theming: https://docs.looker.com/admin-options/settings/themes
 - Embed SDK: https://docs.looker.com/reference/embed-sdk/embed-sdk-intro
 - API SDK: https://docs.looker.com/reference/api-and-integration/api-sdk
