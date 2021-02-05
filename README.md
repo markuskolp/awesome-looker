@@ -21,11 +21,15 @@
 
 ## Custom viz's
 
+- Looker:
+  - https://github.com/looker/custom_visualizations_v2
 - Groodlooker: 
   - https://github.com/groodlooker/vega-lite
 - http://lookervisbuilder.com/
 - who's the owner?
   - Report table: https://github.com/llooker/viz-report-table-marketplace, https://github.com/looker-open-source/viz-report-table-marketplace, https://github.com/ContrastingSounds/vis-report_table
+- Jim Rottinger: 
+  - https://github.com/JimRottinger/looker-vis-builder | https://github.com/JimRottinger/looker-vis-builder
 - Bytecode IO:
   - https://github.com/bytecodeio/leaflet-looker
   - https://github.com/bytecodeio/single_icon
