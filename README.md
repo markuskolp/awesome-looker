@@ -50,6 +50,11 @@
 
 - Covid-19: https://github.com/looker/data-block-community-mobility
 
+## Actions
+
+- Custom action hub template: https://github.com/looker/custom-action-hub-example
+- Action hub with Python and Fast API: https://github.com/ContrastingSounds/fast-hub
+
 ## Developer
 
 - General:
@@ -68,8 +73,6 @@
   - https://github.com/looker/sdk-examples
 - Developers with Looker skill:
   - https://beiatrix.github.io/#about
-- Actions: 
-  - https://github.com/ContrastingSounds/fast-hub
 - Python LookML API:
   - https://github.com/ContrastingSounds/lookml
 - SDK for Python:
