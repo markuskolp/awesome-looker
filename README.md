@@ -19,6 +19,16 @@
 - https://info.looker.com/hadoop/federating-data-with-presto-to-build-an-enterprise-data-portal
 - https://github.com/ContrastingSounds/simple_data_portal
 
+## Embed, whitelabel, ...
+
+- https://looker.com/product/embedded-analytics
+- https://looker.com/blog/embedded-analytics-questions-answered
+- Whitelabel: https://docs.looker.com/admin-options/settings/whitelabel
+- Theming: https://docs.looker.com/admin-options/settings/themes
+- Embed SDK: https://docs.looker.com/reference/embed-sdk/embed-sdk-intro
+- API SDK: https://docs.looker.com/reference/api-and-integration/api-sdk
+
+
 ## Custom viz's
 
 - Looker:
@@ -43,6 +53,7 @@
 
 ## Extensions
 
+- Extension framework: https://docs.looker.com/data-modeling/extension-framework/extension-framework-intro
 - Data dictionary: https://github.com/looker-open-source/app-data-dictionary
 
 ## Blocks
