@@ -25,11 +25,8 @@
   - https://github.com/looker/custom_visualizations_v2
 - Groodlooker: 
   - https://github.com/groodlooker/vega-lite
-- http://lookervisbuilder.com/
-- who's the owner?
-  - Report table: https://github.com/llooker/viz-report-table-marketplace, https://github.com/looker-open-source/viz-report-table-marketplace, https://github.com/ContrastingSounds/vis-report_table
 - Jim Rottinger: 
-  - https://github.com/JimRottinger/looker-vis-builder | https://github.com/JimRottinger/looker-vis-builder
+  - http://lookervisbuilder.com/ | https://github.com/JimRottinger/looker-vis-builder
 - Bytecode IO:
   - https://github.com/bytecodeio/leaflet-looker
   - https://github.com/bytecodeio/single_icon
@@ -37,10 +34,12 @@
   - https://github.com/bytecodeio/highcharts_multi_section_viz
   - https://bytecode.io/looker-erd-generator/
 - ContrastingSounds (Jon Walls):
-  - https://github.com/ContrastingSounds/vis-treemap
-  - https://github.com/ContrastingSounds/vis-tools
-  - https://github.com/ContrastingSounds/Looker-Custom-Vis
-  - https://github.com/ContrastingSounds/Looker-Vis-Building-Class
+  - Build a custom viz: 
+    - https://github.com/ContrastingSounds/Looker-Vis-Building-Class
+    - https://github.com/ContrastingSounds/Looker-Custom-Vis
+    - https://github.com/ContrastingSounds/vis-tools
+  - Treemap: https://github.com/ContrastingSounds/vis-treemap
+  - Report table: https://github.com/llooker/viz-report-table-marketplace, https://github.com/looker-open-source/viz-report-table-marketplace, https://github.com/ContrastingSounds/vis-report_table
 
 ## Extensions
 
