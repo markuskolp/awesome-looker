@@ -1,14 +1,18 @@
 # Awesome Looker
 
-> A list of resources for the data platform [Looker.com](https://www.looker.com)
+> A list of resources for the data platform <img src="https://looker.com/assets/img/images/logos/looker.svg" alt="Looker Logo" width="100"/>
+
 
 ## Official
 
 - [Looker.com](https://www.looker.com)
 - [New features](https://looker.com/product/new-features)
+- [Release notes](https://docs.looker.com/relnotes/intro)
 - [Blog](https://looker.com/blog)
 - [Documentation](https://docs.looker.com/)
 - [User guide](https://looker.com/guide)
+- [Help center > Developer](https://help.looker.com/hc/en-us/categories/360000085568-Development)
+- [Customer scripts](https://github.com/looker/customer-scripts)
 
 ## Data Portal
 
@@ -60,11 +64,16 @@
   - https://github.com/looker/sdk-examples
 - Developers with Looker skill:
   - https://beiatrix.github.io/#about
+- Actions: 
+  - https://github.com/ContrastingSounds/fast-hub
+- Python LookML API:
+  - https://github.com/ContrastingSounds/lookml
+- SDK for Python:
+  - https://github.com/looker-open-source/sdk-codegen/tree/master/python
 
-- https://help.looker.com/hc/en-us/categories/360000085568-Development -> https://help.looker.com/hc/en-us/articles/360025354374-Masking-Sensitive-Fields-for-All-Users
-- https://docs.looker.com/relnotes/intro
-- https://supermarket.chef.io/cookbooks/looker
-- customer scripts: https://github.com/looker/customer-scripts
-- https://github.com/ContrastingSounds/fast-hub
-- https://github.com/ContrastingSounds/lookml
-- https://github.com/looker-open-source/sdk-codegen/tree/master/python
+## Special topics
+
+- LookML:
+  - [Masking-Sensitive-Fields-for-All-Users](https://help.looker.com/hc/en-us/articles/360025354374-Masking-Sensitive-Fields-for-All-Users)
+- On Premise Installation and Configuration:
+  - Cookbook for chef: https://supermarket.chef.io/cookbooks/looker
