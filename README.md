@@ -29,7 +29,7 @@
 - Theming: https://docs.looker.com/admin-options/settings/themes
 - Embed SDK: https://docs.looker.com/reference/embed-sdk/embed-sdk-intro
 - API SDK: https://docs.looker.com/reference/api-and-integration/api-sdk
-
+- Public embed: https://help.looker.com/hc/en-us/articles/360023574934-How-to-Publicly-Embed-Visualizations-and-Data-Tables
 
 ## Custom viz's
 
@@ -56,7 +56,10 @@
 ## Extensions
 
 - Extension framework: https://docs.looker.com/data-modeling/extension-framework/extension-framework-intro
-- Data dictionary: https://github.com/looker-open-source/app-data-dictionary
+- Data dictionary: 
+  - https://github.com/looker-open-source/app-data-dictionary
+  - https://help.looker.com/hc/en-us/articles/360039086454-Publishing-Content-a-Workflow-for-Authorizing-Content-as-a-Source-of-Truth
+  - https://help.looker.com/hc/en-us/articles/360023562674-Creating-a-Data-Dictionary-Using-Looker-s-API
 
 ## Blocks
 
@@ -89,10 +92,39 @@
   - https://github.com/ContrastingSounds/lookml
 - SDK for Python:
   - https://github.com/looker-open-source/sdk-codegen/tree/master/python
+- SQL Runner:
+  - Explain: https://help.looker.com/hc/en-us/articles/360023513514-How-to-Optimize-SQL-with-EXPLAIN
+- API
+  - Generate PDF: https://help.looker.com/hc/en-us/articles/360023624154-Using-the-Looker-API-to-Generate-PDFs
+
+## Home / Portal
+
+- Default homepage: https://help.looker.com/hc/en-us/articles/360043039033-How-do-I-set-up-the-default-homepage-for-my-organization-
+- Organize content: https://help.looker.com/hc/en-us/articles/360025911434-How-do-I-curate-content-for-a-team-or-an-initiative-within-Looker-
+
+## Explores
+
+- Forecast in Tables: https://help.looker.com/hc/en-us/articles/360041728973-How-to-Forecast-in-Looker-with-Table-Calculations
+- URL parameters: https://help.looker.com/hc/en-us/articles/360023571954-Override-Look-Filters-in-the-URL
+
+## Dashboards
+
+- t.b.d.
+
+## Administration
+
+- Administration overview: https://help.looker.com/hc/en-us/categories/360000085607-Administration
+- User activity: https://community.looker.com/lookml-5/analytic-block-daily-weekly-monthly-active-users-1499
+- Performance: https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
+- Dev/Test/Prod: https://help.looker.com/hc/en-us/articles/360033946033-Looker-Multistage-Development-Framework-Dev-QA-Prod-for-Customer-Hosted-Deployments
+- Find unused fields: https://help.looker.com/hc/en-us/articles/360023633674-Finding-Unused-Fields
+
+## On Premise Installation and Configuration:
+
+- Cookbook for chef: https://supermarket.chef.io/cookbooks/looker
+- Update instance: https://help.looker.com/hc/en-us/articles/360023639354-Best-Practices-when-Updating-your-Looker-Instance
 
 ## Special topics
 
 - LookML:
   - [Masking-Sensitive-Fields-for-All-Users](https://help.looker.com/hc/en-us/articles/360025354374-Masking-Sensitive-Fields-for-All-Users)
-- On Premise Installation and Configuration:
-  - Cookbook for chef: https://supermarket.chef.io/cookbooks/looker
