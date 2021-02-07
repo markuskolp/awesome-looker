@@ -6,6 +6,7 @@
 ## Official
 
 - [Looker.com](https://www.looker.com)
+- [Community](https://community.looker.com/)
 - [New features](https://looker.com/product/new-features)
 - [Release notes](https://docs.looker.com/relnotes/intro)
 - [Blog](https://looker.com/blog)
