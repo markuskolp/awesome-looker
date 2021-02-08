@@ -98,6 +98,10 @@
 - API
   - Generate PDF: https://help.looker.com/hc/en-us/articles/360023624154-Using-the-Looker-API-to-Generate-PDFs
 
+## LookML
+
+- LookML style guide and linter (LAMS): https://community.looker.com/open-source-projects-78/introducing-lams-a-lookml-style-guide-and-linter-10603
+
 ## Home / Portal
 
 - Default homepage: https://help.looker.com/hc/en-us/articles/360043039033-How-do-I-set-up-the-default-homepage-for-my-organization-
@@ -119,6 +123,7 @@
 - Performance: https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
 - Dev/Test/Prod: https://help.looker.com/hc/en-us/articles/360033946033-Looker-Multistage-Development-Framework-Dev-QA-Prod-for-Customer-Hosted-Deployments
 - Find unused fields: https://help.looker.com/hc/en-us/articles/360023633674-Finding-Unused-Fields
+- Gazer: command line tool for looker content management: https://community.looker.com/open-source-projects-78/gazer-a-command-line-tool-for-looker-content-management-8066
 
 ## On Premise Installation and Configuration:
 
