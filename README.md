@@ -124,6 +124,7 @@
 - Dev/Test/Prod: https://help.looker.com/hc/en-us/articles/360033946033-Looker-Multistage-Development-Framework-Dev-QA-Prod-for-Customer-Hosted-Deployments
 - Find unused fields: https://help.looker.com/hc/en-us/articles/360023633674-Finding-Unused-Fields
 - Gazer: command line tool for looker content management: https://community.looker.com/open-source-projects-78/gazer-a-command-line-tool-for-looker-content-management-8066
+- Spectacles: continuous integration tool for looker: https://www.spectacles.dev/post/introducing-spectacles
 
 ## On Premise Installation and Configuration:
 
