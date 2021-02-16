@@ -15,6 +15,10 @@
 - [Help center > Developer](https://help.looker.com/hc/en-us/categories/360000085568-Development)
 - [Customer scripts](https://github.com/looker/customer-scripts)
 
+## Videos
+
+- 06 Nov 2020 - Looker - Interesting BI platform from Google: https://www.youtube.com/watch?v=9jDREG0O_bU
+
 ## Data Portal
 
 - https://info.looker.com/hadoop/federating-data-with-presto-to-build-an-enterprise-data-portal
@@ -135,3 +139,7 @@
 
 - LookML:
   - [Masking-Sensitive-Fields-for-All-Users](https://help.looker.com/hc/en-us/articles/360025354374-Masking-Sensitive-Fields-for-All-Users)
+
+## Other
+
+- Bryan at Looker: several github projects for looker: https://github.com/bryan-at-looker?tab=repositories
