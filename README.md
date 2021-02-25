@@ -50,6 +50,12 @@
   - https://github.com/bytecodeio/sparkline_viz
   - https://github.com/bytecodeio/highcharts_multi_section_viz
   - https://bytecode.io/looker-erd-generator/
+- noahamac 
+  - Configurable visualizations: https://github.com/noahamac/vizzy -> https://vx-demo.now.sh/gallery
+  - Viz inspector: https://github.com/noahamac/viz-inspector
+- Thomas Banghart
+  - Custom viz react template: https://github.com/thomasbanghart/looker-custom-viz/tree/main/templates/looker-custom-viz-ts
+  - Go Maps ?!: https://github.com/thomasbanghart/go-looker-map-layers
 - ContrastingSounds (Jon Walls):
   - Build a custom viz: 
     - https://github.com/ContrastingSounds/Looker-Vis-Building-Class
