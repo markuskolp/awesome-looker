@@ -105,8 +105,18 @@
   - https://github.com/looker-open-source/sdk-codegen/tree/master/python
 - SQL Runner:
   - Explain: https://help.looker.com/hc/en-us/articles/360023513514-How-to-Optimize-SQL-with-EXPLAIN
-- API
+- API / SDK:
   - Generate PDF: https://help.looker.com/hc/en-us/articles/360023624154-Using-the-Looker-API-to-Generate-PDFs
+  - Flask Wrapper for Looker API: https://gist.github.com/janikas/ded7fa57844e7e5a66332faab649373d
+  - Output calculcations: https://gist.github.com/DanielWeitzenfeld/f13bd8892dbe091eaa38
+  - Query health: https://gist.github.com/jayozer/96d42c9b12eecfd2b3d95eb70198ee04
+  - Disable users: https://gist.github.com/beniyama/ee0a4e9c34acb293cdbcc20888a7369b
+  - ERD Generator: https://community.looker.com/looker-api-77/looker-erd-generator-14999
+  - LookML parser in Python: https://community.looker.com/open-source-projects-78/introducing-lkml-a-speedy-lookml-parser-in-pure-python-13065
+  - pyLookML: https://community.looker.com/open-source-projects-78/pylookml-17215
+  - generate LookML dynamically with Python: https://community.looker.com/open-source-projects-78/announcing-lookml-generation-for-python-4835
+- Connecting Tableau to Looker
+  - Write your own Web Data Connector ? https://tableau.github.io/webdataconnector/
 
 ## LookML
 
