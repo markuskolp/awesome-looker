@@ -2,7 +2,6 @@
 
 > A list of resources for the data platform <img src="https://looker.com/assets/img/images/logos/looker.svg" alt="Looker Logo" width="100"/>
 
-
 ## Official
 
 - [Looker.com](https://www.looker.com)
@@ -160,3 +159,4 @@
 ## Other
 
 - Bryan at Looker: several github projects for looker: https://github.com/bryan-at-looker?tab=repositories
+- another awesome-looker repo :) https://github.com/alison985/awesome-looker
