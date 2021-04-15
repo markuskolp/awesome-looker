@@ -14,6 +14,7 @@
 - [User guide](https://looker.com/guide)
 - [Help center > Developer](https://help.looker.com/hc/en-us/categories/360000085568-Development)
 - [Customer scripts](https://github.com/looker/customer-scripts)
+- [Atom Fashion](https://atomfashion.io/)
 
 ## Videos
 
