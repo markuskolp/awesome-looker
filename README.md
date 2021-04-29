@@ -97,6 +97,7 @@
   - https://github.com/looker-open-source/components, https://looker-open-source.github.io/components/latest/
 - SDK: 
   - https://github.com/looker/sdk-examples
+  - Flask example: https://github.com/looker-open-source/sdk-codegen/tree/main/examples/python/lookersdk-flask
 - Developers with Looker skill:
   - https://beiatrix.github.io/#about
 - Python LookML API:
