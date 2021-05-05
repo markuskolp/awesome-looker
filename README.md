@@ -87,6 +87,7 @@
   - https://github.com/groodlooker
   - https://github.com/looker-open-source
   - https://github.com/looker
+  - [Beyond BI Developer Goodie Bag](https://community.looker.com/platform-developers-1023/beyond-bi-developer-goodie-bag-23345)
 - Template: 
   - https://github.com/looker/custom-action-hub-example
 - Git: 
