@@ -117,6 +117,8 @@
   - LookML parser in Python: https://community.looker.com/open-source-projects-78/introducing-lkml-a-speedy-lookml-parser-in-pure-python-13065
   - pyLookML: https://community.looker.com/open-source-projects-78/pylookml-17215
   - generate LookML dynamically with Python: https://community.looker.com/open-source-projects-78/announcing-lookml-generation-for-python-4835
+  - [Sample webservice to wrap Looker API and instrument Restful API get via URL](https://gist.github.com/janikas/ded7fa57844e7e5a66332faab649373d)
+
 - Connecting Tableau to Looker
   - Write your own Web Data Connector ? https://tableau.github.io/webdataconnector/
 
