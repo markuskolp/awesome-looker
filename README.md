@@ -108,6 +108,7 @@
 - SQL Runner:
   - Explain: https://help.looker.com/hc/en-us/articles/360023513514-How-to-Optimize-SQL-with-EXPLAIN
 - API / SDK:
+  - https://looker.com/blog/introducing-looker-api-explorer
   - Generate PDF: https://help.looker.com/hc/en-us/articles/360023624154-Using-the-Looker-API-to-Generate-PDFs
   - Flask Wrapper for Looker API: https://gist.github.com/janikas/ded7fa57844e7e5a66332faab649373d
   - Output calculcations: https://gist.github.com/DanielWeitzenfeld/f13bd8892dbe091eaa38
